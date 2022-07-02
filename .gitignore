@@ -10,10 +10,12 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
+build
 ### Visual Studio Code ###
-.vscode/**/*
-!.vscode/settings.json 
+**/.vscode/**/*
+
 #### Allowing these to be added to .vscode folder
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+!**/.vscode/settings.json 
+!**/.vscode/tasks.json
+!**/.vscode/launch.json
+!**/.vscode/extensions.json
