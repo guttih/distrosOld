@@ -3,6 +3,8 @@
 Distros is a system to create a linux distribution.  The consists of collection
 of console applications, QT application and bash & python3 scripts.
 
+This project is in **early development** stage.
+
 ## Project directory structure overview
 
 
