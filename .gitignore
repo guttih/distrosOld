@@ -9,3 +9,11 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+### Visual Studio Code ###
+.vscode/**/*
+!.vscode/settings.json 
+#### Allowing these to be added to .vscode folder
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
